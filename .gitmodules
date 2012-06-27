@@ -4,3 +4,6 @@
 [submodule "vim-ruby"]
 	path = vim-ruby
 	url = git://github.com/vim-ruby/vim-ruby.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
