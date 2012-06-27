@@ -1,3 +1,6 @@
 [submodule "jellybeans.vim"]
 	path = jellybeans.vim
 	url = git://github.com/nanotech/jellybeans.vim.git
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby.git
