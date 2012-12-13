@@ -16,3 +16,9 @@
 [submodule "vim-gnupg"]
 	path = vim-gnupg
 	url = git://github.com/jamessan/vim-gnupg.git
+[submodule "vim-instant-markdown"]
+	path = vim-instant-markdown
+	url = https://github.com/suan/vim-instant-markdown.git
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
