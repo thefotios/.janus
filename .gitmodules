@@ -22,3 +22,6 @@
 [submodule "vim-markdown"]
 	path = vim-markdown
 	url = https://github.com/tpope/vim-markdown.git
+[submodule "gem-gist.vim"]
+	path = gem-gist.vim
+	url = git@github.com:fotioslindiakos/gem-gist.vim.git
